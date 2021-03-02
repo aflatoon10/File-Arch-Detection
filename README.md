@@ -1,4 +1,4 @@
-README :-
+#File-Arch-Detection
 
 1) The program takes an inputPath as string input and gives the required output :
 - the total number of libraries present in the folder(numLib), and
