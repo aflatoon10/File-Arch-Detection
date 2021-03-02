@@ -1,0 +1,7 @@
+Instructions to run the program :-
+
+1) Source code is kept in the file "Solution.cpp" along with the Makefile.
+2) First unzip the contents, then build and run the same using a version of g++ compiler.
+3) To build, type "make" or "make all" and press ENTER(preferably from terminal or shell).
+4) Then type "./solve", press ENTER and provide inputPath as string input to run(inputPath => "./test-input/" for Sample input)
+5) It should give the total number of libraries present in the folder, along with the information including the library file name and corresponding architecture type(among the given ones).
